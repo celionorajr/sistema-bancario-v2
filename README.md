@@ -1,22 +1,23 @@
 # Sistema Bancário
 
-Este é um sistema bancário simples desenvolvido em Python.
+Este é um sistema bancário simples implementado em Python, permitindo operações básicas como:
 
 ## Funcionalidades
-- Depósito de dinheiro
-- Saque com limite diário
-- Limite de 10 transações por dia
-- Exibição de extrato com data e hora das transações
+- **Criar Usuário**: Cadastro de usuários com CPF único.
+- **Abrir Conta**: Criação de contas bancárias associadas a um usuário.
+- **Depósito**: Adicionar saldo na conta.
+- **Saque**: Retirar saldo com limite diário.
+- **Extrato**: Exibir todas as movimentações da conta.
+- **Sair**: Encerrar o programa.
 
-## Como usar
-1. Execute o script Python.
-2. Escolha uma das opções do menu.
-3. Siga as instruções para realizar transações.
+## Como Usar
+1. Execute o script `sistema_bancario.py`.
+2. Escolha uma opção no menu exibido.
+3. Siga as instruções na tela para cada funcionalidade.
 
-## Tecnologias
-- Python
+## Requisitos
+- Python 3.x instalado no sistema.
 
 ## Autor
-Célio
-
+Criado por Célio.
 
